@@ -1,0 +1,217 @@
+default_code,name,categ_id,list_price,standard_price,type,x_puff_count,x_flavor,x_volume,x_nicotine_level,x_pack_size
+DGEBAP500002,Geek Bar Disposable 10 Pack - Blueberry Ice,Disposables,19.99,36.5,goods,0,Blueberry Ice,,,10
+DGEBAP500008,Geek Bar Disposable 10 Pack - Sweet Strawberry,Disposables,19.99,36.5,goods,0,Sweet Strawberry,,,10
+DGEBAP500004,Geek Bar Disposable 10 Pack - Mango Ice,Disposables,19.99,36.5,goods,0,Mango Ice,,,10
+DGEBAP500010,Geek Bar Disposable 10 Pack - Watermelon Ice,Disposables,19.99,36.5,goods,0,Watermelon Ice,,,10
+DGEBAP500005,Geek Bar Disposable 10 Pack - Menthol,Disposables,19.99,35.0,goods,0,Menthol,,,10
+DGEBAP500007,Geek Bar Disposable 10 Pack - Sour Apple,Disposables,19.99,36.5,goods,0,Sour Apple,,,10
+DGEBAP500003,Geek Bar Disposable 10 Pack - Lychee Ice,Disposables,19.99,36.5,goods,0,Lychee Ice,,,10
+DGEBAP500001,Geek Bar Disposable 10 Pack - Banana Ice,Disposables,19.99,36.5,goods,0,Banana Ice,,,10
+DGEBAP500006,Geek Bar Disposable 10 Pack - Peach Ice,Disposables,19.99,36.5,goods,0,Peach Ice,,,10
+DGEBAP500009,Geek Bar Disposable 10 Pack - Tobacco,Disposables,19.99,35.0,goods,0,Tobacco,,,10
+Geek Bar Pro Disposable 1500 Puffs - Aloe Mango Melon Ice,Geek Bar Pro Single Disposable 1500 Puffs - Aloe Mango Melon Ice,Disposables,9.0,5.8,goods,0,Aloe Mango Melon Ice,,,1
+Geek Bar Pro Disposable 1500 Puffs - Blueberry Raspberry Lemon,Geek Bar Pro Single Disposable 1500 Puffs - Blueberry Raspberry Lemon,Disposables,9.0,5.8,goods,0,Blueberry Raspberry Lemon,,,1
+Geek Bar Pro Disposable 1500 Puffs - Grape Soda,Geek Bar Pro Single Disposable 1500 Puffs - Grape Soda,Disposables,9.0,5.8,goods,0,Grape Soda,,,1
+Geek Bar Pro Disposable 1500 Puffs - Guava Ice,Geek Bar Pro Single Disposable 1500 Puffs - Guava Ice,Disposables,9.0,5.8,goods,0,Guava Ice,,,1
+Geek Bar Pro Disposable 1500 Puffs - Icy Cola,Geek Bar Pro Single Disposable 1500 Puffs - Icy Cola,Disposables,9.0,5.8,goods,0,Icy Cola,,,1
+Geek Bar Pro Disposable 1500 Puffs - Lush Ice,Geek Bar Pro Single Disposable 1500 Puffs - Lush Ice,Disposables,9.0,5.8,goods,0,Lush Ice,,,1
+Geek Bar Pro Disposable 1500 Puffs - Mixed Berries,Geek Bar Pro Single Disposable 1500 Puffs - Mixed Berries,Disposables,9.0,5.8,goods,0,Mixed Berries,,,1
+Geek Bar Pro Disposable 1500 Puffs - Orange Soda,Geek Bar Pro Single Disposable 1500 Puffs - Orange Soda,Disposables,9.0,5.8,goods,0,Orange Soda,,,1
+Geek Bar Pro Disposable 1500 Puffs - Peach Ice,Geek Bar Pro Single Disposable 1500 Puffs - Peach Ice,Disposables,9.0,5.8,goods,0,Peach Ice,,,1
+Geek Bar Pro Disposable 1500 Puffs - Strawberry Banana,Geek Bar Pro Single Disposable 1500 Puffs - Strawberry Banana,Disposables,9.0,5.8,goods,0,Strawberry Banana,,,1
+DGEBAP500011,Geek Bar Disposable 10 Pack-Blueberry Bubble Gum,Disposables,19.99,36.5,goods,0,Blueberry Bubble Gum,,,10
+DGEBAP500012,Geek Bar Disposable 10 Pack-Blackcurrant Menthol,Disposables,19.99,36.5,goods,0,Blackcurrant Menthol,,,10
+DGEBAP500013,Geek Bar Disposable 10 Pack-Lemon Tart,Disposables,19.99,36.5,goods,0,Lemon Tart,,,10
+DGEBAP500015,Geek Bar Disposable 10 Pack-Grape,Disposables,19.99,36.5,goods,0,Grape,,,10
+DGEBAP500014,Geek Bar Disposable 10 Pack-Pink Lemonade,Disposables,19.99,36.5,goods,0,Pink Lemonade,,,10
+DGEBAP500016,Geek Bar Disposable 10 Pack-Passion Fruit,Disposables,19.99,36.5,goods,0,Passion Fruit,,,10
+DGEBAP500018,Geek Bar Disposable 10 Pack-Green Mango,Disposables,19.99,36.5,goods,0,Green Mango,,,10
+DGBABP500510,Geek Bar B5000 Puffs Disposable 10-Pack-Guava Ice,Disposables,99.97,51.0,goods,0,Guava Ice,,,10
+DGBMMP500501,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Berry Trio-5%,Disposables,56.0,30.5,goods,0,Berry Trio,,5.0%,5
+DGBMMP500502,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Clear-5%,Disposables,56.0,30.5,goods,0,Clear,,5.0%,5
+DGBMMP500503,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Cool Mint-5%,Disposables,56.0,30.5,goods,0,Cool Mint,,5.0%,5
+DGBMMP500504,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Fuji Melon Ice-5%,Disposables,56.0,30.5,goods,0,Fuji Melon Ice,,5.0%,5
+DGBMMP500505,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Ginger Ale-5%,Disposables,56.0,30.5,goods,0,Ginger Ale,,5.0%,5
+DGBMMP500506,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Green Monster-5%,Disposables,56.0,30.5,goods,0,Green Monster,,5.0%,5
+DGBMMP500507,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Mexico Mango-5%,Disposables,56.0,30.5,goods,0,Mexico Mango,,5.0%,5
+DGBMMP500508,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Peach Ice-5%,Disposables,56.0,30.5,goods,0,Peach Ice,,5.0%,5
+DGBMMP500509,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Sour Apple Ice-5%,Disposables,56.0,30.5,goods,0,Sour Apple Ice,,5.0%,5
+DGBMMP500510,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Stone Freeze-5%,Disposables,56.0,30.5,goods,0,Stone Freeze,,5.0%,5
+DGBMMP500511,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Strawberry Ice-5%,Disposables,56.0,30.5,goods,0,Strawberry Ice,,5.0%,5
+DGBMMP500512,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Strawberry Mango-5%,Disposables,56.0,30.5,goods,0,Strawberry Mango,,5.0%,5
+DGBMMP500513,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Strawberry Watermelon-5%,Disposables,56.0,30.5,goods,0,Strawberry Watermelon,,5.0%,5
+DGBMMP500514,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Tropical Rainbow Blast-5%,Disposables,56.0,30.5,goods,0,Tropical Rainbow Blast,,5.0%,5
+DGBMMP500515,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Watermelon Ice-5%,Disposables,56.0,30.5,goods,0,Watermelon Ice,,5.0%,5
+DGBMMP500516,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Apple Sunrise-5.0%,Disposables,56.0,30.5,goods,0,Apple Sunrise,,5.0%,5
+DGBMMP500517,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Coconut Shake-5.0%,Disposables,56.0,30.5,goods,0,Coconut Shake,,5.0%,5
+DGBMMP500518,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Columbian Coffee Ice-5.0%,Disposables,56.0,30.5,goods,0,Columbian Coffee Ice,,5.0%,5
+DGBMMP500520,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Nectarine-5.0%,Disposables,56.0,30.5,goods,0,Nectarine,,5.0%,5
+DGBMMP500521,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Purple Haze-5.0%,Disposables,56.0,30.5,goods,0,Purple Haze,,5.0%,5
+DGBMMP500519,Geek Bar Meloso MAX 9000 Puffs Disposable-5-Pack-Meta Moon-5.0%,Disposables,56.0,30.5,goods,0,Meta Moon,,5.0%,5
+HGER16PEDE50BRI,"Geek Bar Pulse 15,000 Puffs Disposable-Blue Razz Ice-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Blue Razz Ice,16mL,5.0%,5
+HGER16PEDE50PKLE,"Geek Bar Pulse 15,000 Puffs Disposable-Pink Lemonade-5-Pack-5.0%",Disposables,65.0,37.5,goods,5000,Pink Lemonade,16mL,5.0%,5
+HGER16PEDE50SYBA,"Geek Bar Pulse 15,000 Puffs Disposable-Strawberry Banana-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Strawberry Banana,16mL,5.0%,5
+HGER16PEDE50SYMO,"Geek Bar Pulse 15,000 Puffs Disposable-Strawberry Mango-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Strawberry Mango,16mL,5.0%,5
+HGER16PEDE50SAI,"Geek Bar Pulse 15,000 Puffs Disposable-Sour Apple Ice-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Sour Apple Ice,16mL,5.0%,5
+HGER16PEDE50TRB,"Geek Bar Pulse 15,000 Puffs Disposable-Tropical Rainbow Blast-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Tropical Rainbow Blast,16mL,5.0%,5
+HGER16PEDE50WGI,"Geek Bar Pulse 15,000 Puffs Disposable-White Gummy Ice-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,White Gummy Ice,16mL,5.0%,5
+HGER16PEDE50FGFB,"Geek Bar Pulse 15,000 Puffs Disposable-Fcuking Fab-5-Pack-5.0%",Disposables,65.0,42.0,goods,5000,Fcuking Fab,16mL,5.0%,5
+HGER16PEDE50MIMT,"Geek Bar Pulse 15,000 Puffs Disposable-Miami Mint-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Miami Mint,16mL,5.0%,5
+HGER16PEDE50JPI,"Geek Bar Pulse 15,000 Puffs Disposable-Juicy Peach Ice-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Juicy Peach Ice,16mL,5.0%,5
+HGER16PEDE50CACY,"Geek Bar Pulse 15,000 Puffs Disposable-California Cherry-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,California Cherry,16mL,5.0%,5
+HGER16PEDE50MOMO,"Geek Bar Pulse 15,000 Puffs Disposable-Mexico Mango-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Mexico Mango,16mL,5.0%,5
+HGER16PEDE50MAMN,"Geek Bar Pulse 15,000 Puffs Disposable-Meta Moon-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Meta Moon,16mL,5.0%,5
+HGER16PEDE50BWPP,"Geek Bar Pulse 15,000 Puffs Disposable-Blow Pop-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Blow Pop,16mL,5.0%,5
+DGBPUP500116,"Geek Bar Pulse 15,000 Puffs Disposable-Black Cherry-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Black Cherry,16mL,5.0%,5
+DGBPUP500117,"Geek Bar Pulse 15,000 Puffs Disposable-Blue Mint-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Blue Mint,16mL,5.0%,5
+DGBPUP500118,"Geek Bar Pulse 15,000 Puffs Disposable-Cherry Bomb-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Cherry Bomb,16mL,5.0%,5
+DGBPUP500119,"Geek Bar Pulse 15,000 Puffs Disposable-Dragon Melon-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Dragon Melon,16mL,5.0%,5
+DGBPUP500120,"Geek Bar Pulse 15,000 Puffs Disposable-Grape Blow Pop-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Grape Blow Pop,16mL,5.0%,5
+ONT038541,"Geek Bar Pulse 15,000 Puffs Disposable-Coconut Milk Ice-5-Pack-5.0%",Disposables,65.0,7.75,goods,5000,Coconut Milk Ice,16mL,5.0%,5
+Pulse-Fuji Melon Ice-5-Pack-5.0%,"Geek Bar Pulse 15,000 Puffs Disposable-Fuji Melon Ice-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Fuji Melon Ice,16mL,5.0%,5
+"Geek Bar Pulse 15,000 Puffs Disposable-Icy Ruby-5-Pack-5.0%","Geek Bar Pulse 15,000 Puffs Disposable-Icy Ruby-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Icy Ruby,16mL,5.0%,5
+"Geek Bar Pulse 15,000 Puffs Disposable-Nectarine Ice-5-Pack-5.0%","Geek Bar Pulse 15,000 Puffs Disposable-Nectarine Ice-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Nectarine Ice,16mL,5.0%,5
+"Geek Bar Pulse 15,000 Puffs Disposable-Rising Sun-5-Pack-5.0%","Geek Bar Pulse 15,000 Puffs Disposable-Rising Sun-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Rising Sun,16mL,5.0%,5
+"Pulse 15,000-Sparkling Lemon Mint-5-Pack-5.0%","Geek Bar Pulse 15,000 Puffs Disposable-Sparkling Lemon Mint-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Sparkling Lemon Mint,16mL,5.0%,5
+"Geek Bar Pulse 15,000 Puffs Disposable-Stone Freeze-5-Pack-5.0%","Geek Bar Pulse 15,000 Puffs Disposable-Stone Freeze-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Stone Freeze,16mL,5.0%,5
+Geek Bar Pulse-Strawberry CC-5-Pack-5.0%,"Geek Bar Pulse 15,000 Puffs Disposable-Strawberry CC-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Strawberry CC,16mL,5.0%,5
+Geek Bar Pulse-Sunny Tart-5-Pack-5.0%,"Geek Bar Pulse 15,000 Puffs Disposable-Sunny Tart-5-Pack-5.0%",Disposables,65.0,34.75,goods,5000,Sunny Tart,16mL,5.0%,5
+HGR16PEDE50BYBS,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Berry Bliss-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Berry Bliss,16mL,5.0%,5
+HGR16PEDE50BYWN,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Blueberry Watermelon-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Blueberry Watermelon,16mL,5.0%,5
+HGR16PEDE50CYMN,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Crazy Melon-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Crazy Melon,16mL,5.0%,5
+GBPULSE15PF-GL,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Grape Lemon-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Grape Lemon,16mL,5.0%,5
+GBPULSE15PF-OM,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-OMG Blow Pop-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,OMG Blow Pop,16mL,5.0%,5
+GBPULSE15PF-SAB,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Sour Apple Blow Pop-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Sour Apple Blow Pop,16mL,5.0%,5
+GBPULSE15PF-OC,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Orange Creamsicle-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Orange Creamsicle,16mL,5.0%,5
+DGBPUS500139,"Geek Bar Pulse 15,000 Puffs Disposable-Peach Ice-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Peach Ice (INT),16mL,5.0%,1
+DGBPUS500140,"Geek Bar Pulse 15,000 Puffs Disposable-Mexico Mango Ice (INT)-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Mexico Mango Ice (INT),16mL,5.0%,1
+DGBPUS500141,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Pina Colada-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Frozen Pina Colada,16mL,5.0%,1
+HGR16PFE50FPC,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Pina Colada-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Frozen Pina Colada,16mL,5.0%,5
+DGBPUS500142,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Strawberry-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Frozen Strawberry,16mL,5.0%,1
+HGR16PFE50FNSY,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Strawberry-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Frozen Strawberry,16mL,5.0%,5
+DGBPUS500143,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Cherry Apple-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Frozen Cherry Apple,16mL,5.0%,1
+HGR16PFE50FCA,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Cherry Apple-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Frozen Cherry Apple,16mL,5.0%,5
+DGBPUS500144,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Blackberry Fab-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Frozen Blackberry Fab,16mL,5.0%,1
+HGR16PFE50FBF,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Blackberry Fab-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Frozen Blackberry Fab,16mL,5.0%,5
+DGBPUS500145,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Watermelon-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Frozen Watermelon,16mL,5.0%,1
+HGR16PFE50FNWN,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen Watermelon-5-Pack-5.0%",Disposables,65.0,42.5,goods,5000,Frozen Watermelon,16mL,5.0%,5
+DGBPUS500146,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen White Grape-Single Disposable-5.0%",Disposables,13.0,6.95,goods,5000,Frozen White Grape,16mL,5.0%,1
+HGR16PFE50FWG,"Geek Bar Pulse 15,000 Puffs Disposable 16mL-Frozen White Grape-5-Pack-5.0%",Disposables,65.0,35.0,goods,5000,Frozen White Grape,16mL,5.0%,5
+GBP25K-LBO,Geek Bar Pulse X 25000 Puffs Disposable-Lime Berry Orange-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Lime Berry Orange,18mL,5.0%,5
+GBP25K-SBP,Geek Bar Pulse X 25000 Puffs Disposable-Strawberry B-Pop-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Strawberry B-Pop,18mL,5.0%,5
+GBP25K-WI,Geek Bar Pulse X 25000 Puffs Disposable-Watermelon Ice-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Watermelon Ice,18mL,5.0%,5
+GBP25K-SAI,Geek Bar Pulse X 25000 Puffs Disposable-Sour Apple Ice-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Sour Apple Ice,18mL,5.0%,5
+GBP25K-BTF,Geek Bar Pulse X 25000 Puffs Disposable-Banana Taffy Freeze-5-Pack-5.0%-18mL,Disposables,76.25,52.5,goods,25000,Banana Taffy Freeze,18mL,5.0%,5
+GBP25K-LH,Geek Bar Pulse X 25000 Puffs Disposable-Lemon Heads-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Lemon Heads,18mL,5.0%,5
+GBP25K-BRI,Geek Bar Pulse X 25000 Puffs Disposable-Blue Razz Ice-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Blue Razz Ice,18mL,5.0%,5
+GBP25K-SMP,Geek Bar Pulse X 25000 Puffs Disposable-Sour Mango Pineapple-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Sour Mango Pineapple,18mL,5.0%,5
+GBP25K-MM,Geek Bar Pulse X 25000 Puffs Disposable-Miami Mint-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Miami Mint,18mL,5.0%,5
+GBP25K-GR,Geek Bar Pulse X 25000 Puffs Disposable-Grapefruit Refresher-5-Pack-5.0%-18mL,Disposables,76.25,52.5,goods,25000,Grapefruit Refresher,18mL,5.0%,5
+GBP25K-SFF,Geek Bar Pulse X 25000 Puffs Disposable-Sour Fcuking Fab-5-Pack-5.0%-18mL,Disposables,76.25,52.5,goods,25000,Sour Fcuking Fab,18mL,5.0%,5
+GBP25K-BR,Geek Bar Pulse X 25000 Puffs Disposable-Blue Rancher-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Blue Rancher,18mL,5.0%,5
+GBP25K-RPL,Geek Bar Pulse X 25000 Puffs Disposable-Raspberry Peach Lime-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Raspberry Peach Lime,18mL,5.0%,5
+GBP25K-BBP,Geek Bar Pulse X 25000 Puffs Disposable-Blackberry B-Pop-5-Pack-5.0%-18mL,Disposables,76.25,52.5,goods,25000,Blackberry B-Pop,18mL,5.0%,5
+GBP25K-OFF,Geek Bar Pulse X 25000 Puffs Disposable-Orange Fcuking Fab-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Orange Fcuking Fab,18mL,5.0%,5
+DGBSVS500201,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Blackberry Fcuking Fab-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Blackberry Fcuking Fab,16mL,5.0%,1
+HGR16SVD50BFF,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Blackberry Fcuking Fab-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Blackberry Fcuking Fab,16mL,5.0%,5
+DGBSVS500202,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Blue Razz Ice-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Blue Razz Ice,16mL,5.0%,1
+HGR16SVD50BRI,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Blue Razz Ice-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Blue Razz Ice,16mL,5.0%,5
+DGBSVS500204,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Cherry Strazz-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Cherry Strazz,16mL,5.0%,1
+HGR16SVD50CYSZ,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Cherry Strazz-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Cherry Strazz,16mL,5.0%,5
+DGBSVS500205,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Miami Mint-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Miami Mint,16mL,5.0%,1
+HGR16SVD50MIMT,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Miami Mint-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Miami Mint,16mL,5.0%,5
+DGBSVS500206,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Peach Blue Slushy-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Peach Blue Slushy,16mL,5.0%,1
+HGR16SVD50PBS,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Peach Blue Slushy-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Peach Blue Slushy,16mL,5.0%,5
+DGBSVS500207,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Peach Raspberry-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Peach Raspberry,16mL,5.0%,1
+HGR16SVD50PHRY,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Peach Raspberry-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Peach Raspberry,16mL,5.0%,5
+DGBSVS500208,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Sky Walker-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Sky Walker,16mL,5.0%,1
+HGR16SVD50SYWR,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Sky Walker-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Sky Walker,16mL,5.0%,5
+DGBSVS500209,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Sour Apple Ice-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Sour Apple Ice,16mL,5.0%,1
+HGR16SVD50SAI,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Sour Apple Ice-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Sour Apple Ice,16mL,5.0%,5
+DGBSVS500210,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Sour Watermelon Blue Razz-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Sour Watermelon Blue Razz,16mL,5.0%,1
+HGR16SVD50SWBR,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Sour Watermelon Blue Razz-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Sour Watermelon Blue Razz,16mL,5.0%,5
+DGBSVS500211,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Strawberry Banana-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Strawberry Banana,16mL,5.0%,1
+HGR16SVD50SYBA,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Strawberry Banana-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Strawberry Banana,16mL,5.0%,5
+DGBSVS500212,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Strawberry Ice-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Strawberry Ice,16mL,5.0%,1
+DGBSVS500213,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Strawberry Watermelon Coconut-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Strawberry Watermelon Coconut,16mL,5.0%,1
+HGR16SVD50SWC,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Strawberry Watermelon Coconut-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Strawberry Watermelon Coconut,16mL,5.0%,5
+DGBSVS500214,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Triple Berry-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Triple Berry,16mL,5.0%,1
+HGR16SVD50TEBY,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Triple Berry-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Triple Berry,16mL,5.0%,5
+DGBSVS500215,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Twisted B-Pop-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Twisted B-Pop,16mL,5.0%,1
+HGR16SVD50TBP,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Twisted B-Pop-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Twisted B-Pop,16mL,5.0%,5
+DGBSVS500203,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-Single Disposable-Cherry Lemon Mint-5.0%-16mL,Disposables,15.95,7.85,goods,25000,Cherry Lemon Mint,16mL,5.0%,1
+HGR16SVD50CLM,Geek Bar Skyview 25000 Puffs Rechargeable Disposable-5-Pack-Cherry Lemon Mint-5.0%-16mL,Disposables,79.75,45.0,goods,25000,Cherry Lemon Mint,16mL,5.0%,5
+DGBXPS500201,Geek Bar Pulse X Patriot Edition 25000 Puffs Disposable-Single Disposable-Blue Razz Ice-5.0%-18mL,Disposables,14.5,8.85,goods,25000,Blue Razz Ice,18mL,5.0%,1
+DGBXPS500202,Geek Bar Pulse X Patriot Edition 25000 Puffs Disposable-Single Disposable-Miami Mint-5.0%-18mL,Disposables,14.5,8.85,goods,25000,Miami Mint,18mL,5.0%,1
+DGBXPS500203,Geek Bar Pulse X Patriot Edition 25000 Puffs Disposable-Single Disposable-Watermelon Ice-5.0%-18mL,Disposables,14.5,8.85,goods,25000,Watermelon Ice,18mL,5.0%,1
+DGBPXS500216,Geek Bar Pulse X 25000 Puffs Disposable-White Peach Raspberry-Single Disposable-5.0%-18mL,Disposables,14.5,8.85,goods,5000,White Peach Raspberry,18mL,5.0%,1
+GBP25K-WPR,Geek Bar Pulse X 25000 Puffs Disposable-White Peach Raspberry-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,White Peach Raspberry,18mL,5.0%,5
+DGBPXS500217,Geek Bar Pulse X 25000 Puffs Disposable-Strawberry Colada-Single Disposable-5.0%-18mL,Disposables,14.5,8.85,goods,5000,Strawberry Colada,18mL,5.0%,1
+GBP25K-SC,Geek Bar Pulse X 25000 Puffs Disposable-Strawberry Colada-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Strawberry Colada,18mL,5.0%,5
+DGBPXS500218,Geek Bar Pulse X 25000 Puffs Disposable-Sour Straws-Single Disposable-5.0%-18mL,Disposables,14.5,8.85,goods,5000,Sour Straws,18mL,5.0%,1
+GBP25K-SS,Geek Bar Pulse X 25000 Puffs Disposable-Sour Straws-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Sour Straws,18mL,5.0%,5
+DGBPXS500219,Geek Bar Pulse X 25000 Puffs Disposable-Cool Mint-Single Disposable-5.0%-18mL,Disposables,14.5,8.85,goods,5000,Cool Mint,18mL,5.0%,1
+GBP25K-CMT,Geek Bar Pulse X 25000 Puffs Disposable-Cool Mint-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Cool Mint,18mL,5.0%,5
+DGBPXS500220,Geek Bar Pulse X 25000 Puffs Disposable-Blackberry Blueberry-Single Disposable-5.0%-18mL,Disposables,14.5,8.85,goods,5000,Blackberry Blueberry,18mL,5.0%,1
+GBP25K-BB,Geek Bar Pulse X 25000 Puffs Disposable-Blackberry Blueberry-5-Pack-5.0%-18mL,Disposables,76.25,50.0,goods,25000,Blackberry Blueberry,18mL,5.0%,5
+HDR16SYDE50BFF,"Digiflavor SKY 25,000 Puffs Disposable-Blackberry Fcuking Fab-5%-Pack of 5-16mL",Disposables,65.0,42.5,goods,5000,Blackberry Fcuking Fab,16mL,5%,5
+HDR16SYDE50BRI,"Digiflavor SKY 25,000 Puffs Disposable-Blue Raz Ice-5%-Pack of 5-16mL",Disposables,65.0,42.5,goods,5000,Blue Raz Ice,16mL,5%,5
+HDR16SYDE50CLM-1,"Digiflavor SKY (aka GEEKBAR SKYVIEW) 25,000 Puffs Disposable-Cherry Lemon Mint-5%-Pack of 5-16mL",Disposables,77.0,,goods,25000,Cherry Lemon Mint,16mL,5%,5
+HDR16SYDE50CYSZ,"Digiflavor SKY 25,000 Puffs Disposable-Cherry Strazz-5%-Pack of 5-16mL",Disposables,65.0,42.5,goods,5000,Cherry Strazz,16mL,5%,5
+HDR16SYDE50MIMT,"Digiflavor SKY (aka GEEKBAR SKYVIEW) 25,000 Puffs Disposable-Miami Mint-5%-Pack of 5-16mL",Disposables,77.0,42.5,goods,25000,Miami Mint,16mL,5%,5
+HDR16SYDE50PBS-1,"Digiflavor SKY (aka GEEKBAR SKYVIEW) 25,000 Puffs Disposable-Peach Blue Slushy-5%-Pack of 5-16mL",Disposables,77.0,,goods,25000,Peach Blue Slushy,16mL,5%,5
+HDR16SYDE50SYWR-1,"Digiflavor SKY (aka GEEKBAR SKYVIEW) 25,000 Puffs Disposable-Sky Walker-5%-Pack of 5-16mL",Disposables,77.0,,goods,25000,Sky Walker,16mL,5%,5
+HDR16SYDE50SAI-1,"Digiflavor SKY (aka GEEKBAR SKYVIEW) 25,000 Puffs Disposable-Sour Apple Ice-5%-Pack of 5-16mL",Disposables,77.0,,goods,25000,Sour Apple Ice,16mL,5%,5
+HDR16SYDE50SYIE,"Digiflavor SKY (aka GEEKBAR SKYVIEW) 25,000 Puffs Disposable-Strawberry Ice-5%-Pack of 5-16mL",Disposables,77.0,7.85,goods,25000,Strawberry Ice,16mL,5%,5
+HDR16SYDE50TEBY,"Digiflavor SKY 25,000 Puffs Disposable-Triple Berry-5%-Pack of 5-16mL",Disposables,65.0,42.5,goods,5000,Triple Berry,16mL,5%,5
+HGR16PSE50SRCE,"Geek Bar Pulse 15,000 Puffs Disposable Sour Edition-Sour Cranapple-5-Pack-5.0%",Disposables,58.0,35.0,goods,5000,Sour Cranapple,16mL,5.0%,5
+HGR16PSE50SRGH,"Geek Bar Pulse 15,000 Puffs Disposable Sour Edition-Sour Gush-5-Pack-5.0%",Disposables,58.0,35.0,goods,5000,Sour Gush,16mL,5.0%,5
+HGR16PSE50SBD,"Geek Bar Pulse 15,000 Puffs Disposable Sour Edition-Sour Blue Dust-5-Pack-5.0%",Disposables,58.0,35.0,goods,5000,Sour Blue Dust,16mL,5.0%,5
+DGBPUS500151,"Geek Bar Pulse 15,000 Puffs Disposable Sour Edition-Sour Blue Dust-Single Disposable-5.0%",Disposables,13.0,6.95,goods,15000,Sour Blue Dust,16mL,5.0%,1
+DGBPUS500152,"Geek Bar Pulse 15,000 Puffs Disposable Halloween Edition-Single Disposable-Haunted BlueberryM-5.0%-16mL",Disposables,14.99,6.95,goods,15000,Haunted BlueberryM,16mL,5.0%,1
+DGBPUS500154,"Geek Bar Pulse 15,000 Puffs Disposable Halloween Edition-Single Disposable-Spooky Vanilla-5.0%-16mL",Disposables,14.99,6.95,goods,15000,Spooky Vanilla,16mL,5.0%,1
+DGBPUS500153,"Geek Bar Pulse 15,000 Puffs Disposable Sour Edition-Sour Watermelon Drop-Single Disposable-5.0%",Disposables,13.0,6.95,goods,15000,Sour Watermelon Drop,16mL,5.0%,1
+DGBPXS500224,Geek Bar Pulse X 25000 Puffs Disposable-Strawberry Watermelon-Single Disposable-5.0%-18mL,Disposables,14.5,8.85,goods,25000,Strawberry Watermelon,18mL,5.0%,1
+HGR16PZD0BRI,"Geek Bar Pulse ZERO Nicotine 15,000 Puffs Disposable-Blue Razz Ice-0%-5-Pack-16mL",Disposables,50.75,,goods,15000,Blue Razz Ice,16mL,0%,5
+DGBPLS001502,"Geek Bar Pulse ZERO Nicotine 15,000 Puffs Disposable-Fcuking Fab-0%-Single Disposable-16mL",Disposables,11.75,6.95,goods,15000,Fcuking Fab,16mL,0%,1
+DGBPLS001503,"Geek Bar Pulse ZERO Nicotine 15,000 Puffs Disposable-Miami Mint-0%-Single Disposable-16mL",Disposables,11.75,6.95,goods,15000,Miami Mint,16mL,0%,1
+DGBMBS503001,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Blueberry Raspberry-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Blueberry Raspberry,18mL,5.0%,1
+DGBMBS503002,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Green Apple Blueberry-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Green Apple Blueberry,18mL,5.0%,1
+DGBMBS503003,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Grumpy Lime-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Grumpy Lime,18mL,5.0%,1
+DGBMBS503004,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Magic Mint-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Magic Mint,18mL,5.0%,1
+DGBMBS503005,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Mexico Mango-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Mexico Mango,18mL,5.0%,1
+DGBMBS503006,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Peachy Strawmelon-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Peachy Strawmelon,18mL,5.0%,1
+DGBMBS503007,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Root Beer-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Root Beer,18mL,5.0%,1
+DGBMBS503008,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Stone Freeze-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Stone Freeze,18mL,5.0%,1
+DGBMBS503009,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Strawnana Ice-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Strawnana Ice,18mL,5.0%,1
+DGBMBS503010,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Summer Grape-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Summer Grape,18mL,5.0%,1
+DGBMBS503012,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Watermelon Ice-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Watermelon Ice,18mL,5.0%,1
+DGBPXS500225,Geek Bar Pulse X 25000 Puffs Disposable-Pink & Blue-Single Disposable-5.0%-18mL,Disposables,14.5,6.95,goods,25000,Pink & Blue,18mL,5.0%,1
+DGBMBS503011,"Geek Bar Meloso 30,000 Puffs Disposable-Single Disposable-Super Fcuking Fab-5.0%-18mL",Disposables,13.99,8.6,goods,30000,Super Fcuking Fab,18mL,5.0%,1
+DGBMNS500101,Geek Bar Meloso Mini 1500 Puffs Disposable-Alaskan Mint-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Alaskan Mint,5mL,5%,1
+DGBMNS500102,Geek Bar Meloso Mini 1500 Puffs Disposable-Blueberry Ice-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Blueberry Ice,5mL,5%,1
+DGBMNS500103,Geek Bar Meloso Mini 1500 Puffs Disposable-Grape Jelly-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Grape Jelly,5mL,5%,1
+DGBMNS500104,Geek Bar Meloso Mini 1500 Puffs Disposable-Gummy Bear-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Gummy Bear,5mL,5%,1
+DGBMNS500105,Geek Bar Meloso Mini 1500 Puffs Disposable-Mexico Mango-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Mexico Mango,5mL,5%,1
+DGBMNS500106,Geek Bar Meloso Mini 1500 Puffs Disposable-Peach Berry-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Peach Berry,5mL,5%,1
+DGBMNS500109,Geek Bar Meloso Mini 1500 Puffs Disposable-Strawberry Banana-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Strawberry Banana,5mL,5%,1
+DGBMNS500110,Geek Bar Meloso Mini 1500 Puffs Disposable-Strawberry Mango-5%-Single Disposable-5mL,Disposables,5.25,3.6,goods,0,Strawberry Mango,5mL,5%,1
+DGBPUS500156,Geek Bar Pulse X 25000 Puffs Disposable-Creamymintz-Single Disposable-5.0%-18mL,Disposables,14.5,6.95,goods,25000,Creamymintz,18mL,5.0%,1
+DGBPUS500155,Geek Bar Pulse X 25000 Puffs Disposable-Peppermintz-Single Disposable-5.0%-18mL,Disposables,14.5,6.95,goods,25000,Peppermintz,18mL,5.0%,1
+DGBPXS002501,Geek Bar Pulse X  ZERO 25000 Puffs Disposable-Blue Rancher-Single Disposable-0%-18mL,Disposables,14.5,8.85,goods,25000,Blue Rancher,18mL,0%,1
+DGBPXS002502,Geek Bar Pulse X ZERO 25000 Puffs Disposable-Miami Mint-Single Disposable-0%-18mL,Disposables,14.5,8.85,goods,25000,Miami Mint,18mL,0%,1
+DGBPXS002503,Geek Bar Pulse X ZERO 25000 Puffs Disposable-Sour Apple Ice-Single Disposable-0%-18mL,Disposables,14.5,8.85,goods,25000,Sour Apple Ice,18mL,0%,1
+DGBPXS002504,Geek Bar Pulse X ZERO 25000 Puffs Disposable-Sour Fcuking Fab-Single Disposable-0%-18mL,Disposables,14.5,8.85,goods,25000,Sour Fcuking Fab,18mL,0%,1
+DGBPXS002505,Geek Bar Pulse X ZERO 25000 Puffs Disposable-Strawberry B-Pop-Single Disposable-0%-18mL,Disposables,14.5,8.85,goods,25000,Strawberry B-Pop,18mL,0%,1
+DGEBNS500501,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Apple Kiwi-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Apple Kiwi,12mL,5.0%,1
+DGEBNS500502,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Berry Trio-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Berry Trio,12mL,5.0%,1
+DGEBNS500503,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Blueberry Milkshake-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Blueberry Milkshake,12mL,5.0%,1
+DGEBNS500504,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Bluerazz Lime-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Bluerazz Lime,12mL,5.0%,1
+DGEBNS500505,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Lime Cactus-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Lime Cactus,12mL,5.0%,1
+DGEBNS500506,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Passion Fruit-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Passion Fruit,12mL,5.0%,1
+DGEBNS500507,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Peach Mango-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Peach Mango,12mL,5.0%,1
+DGEBNS500508,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Polar Mint Ice-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Polar Mint Ice,12mL,5.0%,1
+DGEBNS500509,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Strawberry Donuts-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Strawberry Donuts,12mL,5.0%,1
+DGEBNS500510,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Strawberry Kiwi-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Strawberry Kiwi,12mL,5.0%,1
+DGEBNS500511,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Tropical Fruit-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Tropical Fruit,12mL,5.0%,1
+DGEBNS500512,Geek Bar N5K 5000 Puffs Disposable-Single Disposable-Watermelon Ice-5.0%-12mL,Disposables,4.0,2.7,goods,5000,Watermelon Ice,12mL,5.0%,1

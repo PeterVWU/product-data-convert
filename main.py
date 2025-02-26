@@ -112,9 +112,13 @@ def clean_and_aggregate_magento_csv(input_file, output_file, extra_csv_file):
             if sku in cost_qty_map:
                 row['cost'] = cost_qty_map[sku]['cost']
                 row['qty'] = cost_qty_map[sku]['qty']
-                # Only add simple products (that are in the extra CSV) to the output.
-                if product_type == 'simple':
-                    simple_products.append(row)
+            else:
+                row['qty'] = 0
+
+
+            # Only add simple products (that are in the extra CSV) to the output.
+            if product_type == 'simple':
+                simple_products.append(row)
             else:
                 # For parent products, we want to load them regardless for fallback values.
                 if product_type != 'simple':
@@ -175,43 +179,20 @@ def clean_and_aggregate_magento_csv(input_file, output_file, extra_csv_file):
         # Group by the canonical name.
         products_by_key.setdefault(canonical_name, []).append(row)
 
-    # Aggregate inventory for each group:
-    # Multiply each row's qty by its pack_size to get the total singles.
-    # Choose one representative row (preferably one with pack_size == 1) to hold the aggregated total.
     all_rows_to_write = []
     for key, rows in products_by_key.items():
-        total_singles = 0
-        rep_index = None
         # the sku of the single pack of the product
         single_product_sku = ''
-        
         for i, row in enumerate(rows):
-            # ... existing qty_val and total_singles calculation ...
-
             if int(row['pack_size']) == 1:
-                if rep_index is None:
-                    rep_index = i
                 if not single_product_sku:  # Capture first single pack SKU
                     single_product_sku = row['sku']
 
-        for i, row in enumerate(rows):
-            try:
-                qty_val = int(float(row.get('qty', 0)))
-            except ValueError:
-                qty_val = 0
-            total_singles += int(row['pack_size']) * qty_val
-            if int(row['pack_size']) == 1 and rep_index is None:
-                rep_index = i
-
-        if rep_index is None:
-            rep_index = 0
 
         for i, row in enumerate(rows):
-            if i == rep_index:
-                row['qty'] = total_singles  # aggregated total
-            else:
-                # TODO: product without single pack.
-                row['qty'] = 0  # zero out other rows in the group
+            if row['sku'] not in cost_qty_map:
+                if row['pack_size'] == 1 or not single_product_sku:
+                    continue
             row['single_product_sku'] = single_product_sku   # Add to all rows in group
             all_rows_to_write.append(row)
 
