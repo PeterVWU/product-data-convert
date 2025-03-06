@@ -17,6 +17,38 @@ categories_filename = os.path.join(categories_dir, "odoo_categories.csv")
 unique_categories = df["categ_id"].unique()
 pd.DataFrame({"category_name": unique_categories}).to_csv(categories_filename, index=False)
 
+def check_for_duplicates(df, column_name):
+    """
+    Check for duplicate values in a DataFrame column
+    
+    Args:
+        df (pandas.DataFrame): DataFrame to check
+        column_name (str): Name of the column to check for duplicates
+        
+    Returns:
+        bool: True if duplicates were found, False otherwise
+    """
+    # Check for duplicates in the specified column
+    duplicate_mask = df.duplicated(subset=[column_name], keep=False)
+    duplicate_count = duplicate_mask.sum()
+    
+    if duplicate_count > 0:
+        print(f"WARNING: Found {duplicate_count} duplicate values in '{column_name}'")
+        print(f"Duplicate values: {df[duplicate_mask][column_name].unique().tolist()}")
+        return True
+    return False
+
+
+# Then add this after loading the CSV in odoo_format.py
+print(f"Loaded CSV with {len(df)} rows")
+duplicates_found = check_for_duplicates(df, "sku")
+if duplicates_found:
+    print("WARNING: Found duplicate SKUs in the input file!")
+    print("Dropping duplicates to ensure unique SKUs...")
+    # Keep the first occurrence of each SKU
+    df.drop_duplicates(subset=["sku"], keep="first", inplace=True)
+    print(f"After removing duplicates: {len(df)} rows")
+
 # Convert numeric columns to integers, handling nulls and strings
 def safe_convert_to_int(value):
     try:

@@ -46,7 +46,8 @@ def load_duoplane_mapping(duoplane_csv_file):
             if vendor_name == 'NV01':
                 vendor_sku = row.get('vendor_sku', '').strip()
                 retail_sku = row.get('retailer_sku', '').strip()
-                
+                if(vendor_sku == "DRZLXS002503"):
+                    print(f'Found DRZLXS002503 retail sku from load_duoplane_mapping: {retail_sku}')
                 if vendor_sku and retail_sku:
                     vendor_to_retail_sku_map[vendor_sku] = retail_sku
     
@@ -127,7 +128,9 @@ def load_inventory_data(inventory_csv_file, duoplane_csv_file):
 
             # Map the vendor SKU to retail SKU
             retail_sku = vendor_to_retail_map.get(vendor_sku)
-            
+            if vendor_sku == "DRZLXS002503":
+                print(f'Found DRZLXS002503 retail sku: {retail_sku}')
+                print(f'Found DRZLXS002503 vendor sku: {vendor_sku}')
             # If no mapping found, track it and use the vendor SKU directly
             if not retail_sku:
                 unmapped_skus.append(vendor_sku)
@@ -171,6 +174,7 @@ def load_inventory_data(inventory_csv_file, duoplane_csv_file):
             
             # Store the row for processing after we've identified all duplicate UPCs
             inventory_rows.append({
+                'name': row.get('Name', '').strip(),
                 'vendor_sku': vendor_sku,
                 'retail_sku': retail_sku,
                 'cost': cost,
@@ -183,11 +187,11 @@ def load_inventory_data(inventory_csv_file, duoplane_csv_file):
                 'row_index': row_index
             })
 
-    # Report on duplicate UPCs
-    if duplicate_upcs:
-        print(f"\nFound {len(duplicate_upcs)} duplicate UPCs. These will be fixed.")
-        for upc in duplicate_upcs:
-            print(f"  - UPC {upc} is used by multiple products.")
+    # # Report on duplicate UPCs
+    # if duplicate_upcs:
+    #     print(f"\nFound {len(duplicate_upcs)} duplicate UPCs. These will be fixed.")
+    #     for upc in duplicate_upcs:
+    #         print(f"  - UPC {upc} is used by multiple products.")
     
     # Second pass: process rows and handle duplicate UPCs
     for row in inventory_rows:
@@ -216,10 +220,11 @@ def load_inventory_data(inventory_csv_file, duoplane_csv_file):
                 # Append the conflict count to make the UPC unique
                 original_upc = upc
                 upc = f"{upc}{conflict_count}"
-                print(f"  - Changed UPC for {vendor_sku} from {original_upc} to {upc}")
+                # print(f"  - Changed UPC for {vendor_sku} from {original_upc} to {upc}")
         
         # Additional product details
         product_details = {
+            'name': row['name'],
             'cost': row['cost'],
             'price': row['price'],
             'qty': max(row['total_qty'], 0),  # Ensure non-negative
@@ -252,17 +257,17 @@ def load_inventory_data(inventory_csv_file, duoplane_csv_file):
     print(f"Number of unique duplicate SKUs: {len(set(duplicate_skus))}")
     print(f"Number of unmapped vendor SKUs: {len(unmapped_skus)}")
     
-    # Print the first 20 unmapped SKUs (or all if less than 20)
-    if unmapped_skus:
-        print("\nSample of unmapped vendor SKUs:")
-        for sku in sorted(set(unmapped_skus))[:20]:
-            print(f"  - {sku}")
+    # # Print the first 20 unmapped SKUs (or all if less than 20)
+    # if unmapped_skus:
+    #     print("\nSample of unmapped vendor SKUs:")
+    #     for sku in sorted(set(unmapped_skus))[:20]:
+    #         print(f"  - {sku}")
     
-    # Print the first 20 duplicate SKUs (or all if less than 20)
-    if duplicate_skus:
-        print("\nSample of duplicate SKUs:")
-        for sku in sorted(set(duplicate_skus))[:20]:
-            print(f"  - {sku}")
+    # # Print the first 20 duplicate SKUs (or all if less than 20)
+    # if duplicate_skus:
+    #     print("\nSample of duplicate SKUs:")
+    #     for sku in sorted(set(duplicate_skus))[:20]:
+    #         print(f"  - {sku}")
     
     return inventory_sku_map, duplicate_count, duplicate_skus
 
@@ -471,7 +476,7 @@ def clean_and_aggregate_magento_csv(input_file, output_file, inventory_csv_file,
             # Create a basic row for this inventory item
             row = {
                 'sku': sku,
-                'name': f"Inventory Item {sku}",  # Basic name
+                'name': data['name'],  # Basic name
                 'cost': data['cost'],
                 'price': data['cost'] * 1.5,  # Default markup
                 'qty': data['qty'],
@@ -493,12 +498,27 @@ def clean_and_aggregate_magento_csv(input_file, output_file, inventory_csv_file,
     # Combine all products for the final output
     all_rows_to_write = grouped_products + standalone_products
 
+    # DEDUPLICATION STEP: Create a dictionary to track unique SKUs
+    unique_skus = {}
+    deduplicated_rows = []
+    for row in all_rows_to_write:
+        sku = row.get('sku', '').strip()
+        if sku and sku not in unique_skus:
+            unique_skus[sku] = True
+            deduplicated_rows.append(row)
+        else:
+            print(f"Dropping duplicate SKU: {sku}")
+
+    print(f"Removed {len(all_rows_to_write) - len(deduplicated_rows)} duplicate SKUs")
+    print(f"Final unique SKU count: {len(deduplicated_rows)}")
+
+
     # Write the final CSV with original columns plus the extra derived columns.
     with open(output_file, mode='w', encoding='utf-8', newline='') as outfile:
         fieldnames = columns_to_keep + extra_columns
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
-        for row in all_rows_to_write:
+        for row in deduplicated_rows:
             output_row = {col: row.get(col, '') for col in fieldnames}
             writer.writerow(output_row)
 
